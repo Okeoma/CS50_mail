@@ -1,6 +1,6 @@
 # CS50w Project-3 Mail
 
-This is the project 3 of the course CS50w in which I designed a front-end for an email client that makes API calls to send and receive emails.
+This is the project 3 of the course CS50w (CS50's Website Programming with Python and JavaScript) in which I designed a front-end for an email client that makes API calls to send and receive emails.
 
 # Specification
 
@@ -45,18 +45,6 @@ Using JavaScript, HTML, and CSS, complete the implementation of your single-page
 
 :computer: &nbsp; **View Course [here](https://www.edx.org/course/cs50s-web-programming-with-python-and-javascript)**
 
-:arrow_forward: &nbsp; **View Live Demo [here](https://youtu.be/WaYC_SCQztU)**
+:arrow_forward: &nbsp; **View Live Demo [here](https://youtu.be/zWIsiyB8G2E)**
 
 &nbsp;
-
-### Contribute
-
-Contributions are always welcome! Please create a PR to contribute.
-
-### :pencil: &nbsp; License
-
-This project is licensed under [MIT](https://opensource.org/licenses/MIT) license.
-
-### :man_astronaut: &nbsp; Show your support
-
-Give a ⭐️ if this project helped you!
