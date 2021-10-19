@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'emaildynamics'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_8C3799E8DD234EB8972105E826E15E06 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_59942FBED6874B8FAC02A4AD1518F9C9 }}
